@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Portfolio>
+	<Positions>
+		<Position>
+			<Symbol>AAPL</Symbol>
+			<PurchasePrice>150.25</PurchasePrice>
+			<Quantity>10</Quantity>
+		</Position>
+		<Position>
+			<Symbol>GOOGL</Symbol>
+			<PurchasePrice>2500.75</PurchasePrice>
+			<Quantity>5</Quantity>
+		</Position>
+		<Position>
+			<Symbol>MSFT</Symbol>
+			<PurchasePrice>300.50</PurchasePrice>
+			<Quantity>8</Quantity>
+		</Position>
+	</Positions>
+	<Name>Tech Stocks</Name>
+</Portfolio>
